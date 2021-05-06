@@ -7,14 +7,17 @@ This workshop teaches concepts involved in the creation of a particle system (i.
 We’ll be going through several projects, each of them focusing on a different aspect of the particle system. The projets are grouped in three main catergories:
 
 **Introduction**
+
 Each project presents a basic piece our system.
 We’ll learn how to use vectors to simulate the forces that drive the motion of our particles. 
 We'll also learn to use clases to organize our code.
 
 **Code structure and object-oriented programming**
+
 We’ll learn about coding patterns and good practices that help us create code that is modular, reusable and extendable.
 
 **Rendering**
+
 We’ll learn how to efficiently draw our particles using OpenGL and how to create two renderers.
 
 The last two projects are demos of the completed particle system.
