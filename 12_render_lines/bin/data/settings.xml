@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<group>
+	<particle_system>
+		<timeStep>1</timeStep>
+		<friction>0.00355102</friction>
+		<life>220.168</life>
+		<life_variation>1</life_variation>
+		<mass>1</mass>
+		<mass_variation>1</mass_variation>
+	</particle_system>
+	<emitter>
+		<emit_rate>34.1581</emit_rate>
+		<x>0</x>
+		<y>0</y>
+		<width>1024</width>
+		<height>20</height>
+	</emitter>
+	<wind>
+		<force>0, 0.046</force>
+	</wind>
+	<attraction>
+		<strength>8.26531</strength>
+		<mass>7.23571</mass>
+		<min_dist>50</min_dist>
+		<max_dist>600</max_dist>
+	</attraction>
+	<renderer_lines>
+		<color_born>1, 1, 1, 1</color_born>
+		<color_dead>0, 0, 0, 1</color_dead>
+	</renderer_lines>
+	<trails_opacity>0.84</trails_opacity>
+</group>

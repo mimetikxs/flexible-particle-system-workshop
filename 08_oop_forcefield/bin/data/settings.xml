@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<group>
+	<particle_system>
+		<timeStep>0.357143</timeStep>
+		<friction>0.0137551</friction>
+		<life>100</life>
+		<life_variation>1</life_variation>
+		<mass>1</mass>
+		<mass_variation>1</mass_variation>
+	</particle_system>
+	<emitter>
+		<emit_rate>20</emit_rate>
+		<x>0</x>
+		<y>325.224</y>
+		<width>1024</width>
+		<height>78.3673</height>
+	</emitter>
+	<force_field>
+		<noise_scale>0.0739796</noise_scale>
+		<noise_speed>0.5</noise_speed>
+		<force_scale>0.358107</force_scale>
+	</force_field>
+</group>
