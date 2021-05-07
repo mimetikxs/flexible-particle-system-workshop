@@ -28,7 +28,3 @@ Each project has two versions:
 
 - **Finished:** (project_name) contains the finished code that can be compiled and run to see the application in action.
 - **Starting point:** (project_name_start) contains an incomplete version of the code. The boilerplate will be already in place (to avoid wasting time with irrelevant typing) and we’ll only code the parts that are relevant to understand the topic.
-
-----
-
-A document with the requirements and methodology can be found here: [Preparing for the workshop](https://drive.google.com/file/d/19z_EyvtEHb5hoLW9o3h5E_dVui69E_n8/view).
